@@ -1,6 +1,8 @@
 # hello-word
 Just another repository
 
+New line
+
 First change to master brunch
 
 Second change to master brunch
