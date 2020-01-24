@@ -1,4 +1,4 @@
-# hello-word
+# hello-world
 Just another repository
 
 First change to master brunch
